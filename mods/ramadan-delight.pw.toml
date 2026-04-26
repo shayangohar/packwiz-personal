@@ -1,0 +1,13 @@
+name = "Ramadan Delight (Farmers Delight Add-on)"
+filename = "RamadanDelight-1.21.1-1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07a3e7389e1c64d854761d9c10769255c778ae3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7472926
+project-id = 1193532

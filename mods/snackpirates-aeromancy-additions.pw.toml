@@ -1,0 +1,13 @@
+name = "SnackPirate's Aeromancy Additions"
+filename = "aero_additions-1.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a2c825814f92b9d16e1d7df864b275a2dfbe020"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7263416
+project-id = 1160104

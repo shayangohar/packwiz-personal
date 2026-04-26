@@ -1,0 +1,13 @@
+name = "FTB Chunks: Sable Aerospace"
+filename = "ftbchunksaerospace-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf8807f5846b22da8f15562923a5f33fac82e42a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7975734
+project-id = 1523224

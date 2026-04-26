@@ -1,0 +1,13 @@
+name = "Junkyard"
+filename = "cugmod-0.0.1 (1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a20457dad16d7b63b7e02bca61e70c8bc563e448"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7950345
+project-id = 1511521

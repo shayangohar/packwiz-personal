@@ -1,0 +1,13 @@
+name = "TwizzyCraft 3.5"
+author = "mossad"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ef4743bff926cac5a6661e4eb140b6d95ba0388ec52fe60e603313d7847e59c2"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"

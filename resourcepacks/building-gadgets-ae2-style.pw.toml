@@ -1,0 +1,13 @@
+name = "Building Gadgets AE2 Style"
+filename = "BuildingGadgets 0.27.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ff3d02f017a0ba4db5d48f82c7297a8a85de72f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5696851
+project-id = 1092843

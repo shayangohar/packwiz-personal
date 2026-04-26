@@ -1,0 +1,17 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create_dragons_plus:levitite_fragile_fluid_tank"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:linked_typewriter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"oritech:sculk_paint"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"crystal_chronicles:electromancer_boots"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:boss_summoner"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:magenta_nameplate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:green_portable_engine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dndesires:glowberry_milkshake"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:ochrum"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:spring"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:torsion_spring"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"oritech:portable_laser","components":{"oritech:energy":4500000}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tide:starlight_bow"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tide:shooting_starfish","components":{"tide:fish_length":77.5}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,8 @@
+#Jet Thruster Thrust Multiplier
+# Default: 5
+# Range: > 0
+thrustMult = 5
+#Jet Thruster Airflow Multiplier
+# Default: 5
+# Range: > 0
+airflowMult = 5
