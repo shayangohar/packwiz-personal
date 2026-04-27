@@ -1801,18 +1801,6 @@ file = "config/zeta-common.toml"
 hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
-file = "mods/.connector/continuity-3.0.0+1.21.neoforge_mapped_moj_1.21.1.jar"
-hash = "a0e339695dfeca761ce3a66bf7dbefc708f185b4f7115ffab995b8b03b843636"
-
-[[files]]
-file = "mods/.connector/continuity-3.0.0+1.21.neoforge_mapped_moj_1.21.1.jar.input"
-hash = "dad78ef9fad7070f6256c51542484fe0df38614166849202c3f63b09de09d691"
-
-[[files]]
-file = "mods/.connector/patch_audit.txt"
-hash = "db3f111e4fc4f7e6c34c9cbf497d8b301db51af4b952db4d8e11334751895c48"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
