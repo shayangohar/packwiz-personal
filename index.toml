@@ -1840,6 +1840,11 @@ hash = "9e414657b3a5e60c99e241c58c33cd1e6444780d29aa64c5f897ce1aaf24a00d"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "778fa4eda9d46a79ba4ae4a8425d5202bc584fbf5a64467588567bef5e458726"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
 metafile = true
@@ -1989,6 +1994,11 @@ hash = "aadfb4290c49cf6c07c20a6dd11989c0fe190029e79ac69cb2557fedced7a526"
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "50b018038be4fa007f3e2edadced2aad21d5f840e290a99bbc0383f00858e3f6"
+metafile = true
+
+[[files]]
+file = "mods/chemica.pw.toml"
+hash = "709f9b9820c3442ea37fce069d8a8f6d89fa1c1775a3102ecd9a010bccc310c2"
 metafile = true
 
 [[files]]
@@ -2151,6 +2161,11 @@ metafile = true
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "3a37f452485e16f15a044572da46c48891015ae86c78d8268cb77078e6ca4f4f"
+metafile = true
+
+[[files]]
+file = "mods/create-tfmg.pw.toml"
+hash = "dfbb2a077b144492f48af0255906b146d56011ccb6c6f6e343bab703e8cc0f79"
 metafile = true
 
 [[files]]
