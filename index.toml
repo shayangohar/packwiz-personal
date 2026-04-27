@@ -2134,6 +2134,11 @@ hash = "37c21deaf7e65569fa9dcc59a477a55ab8937153c591f1bc4d6249de9582044f"
 metafile = true
 
 [[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "c4103785556fcfb51a047f038be68dd742fa15e76daff6f0f3277893a9606e97"
+metafile = true
+
+[[files]]
 file = "mods/create-sound-of-steam.pw.toml"
 hash = "87a280b3f1851afa3300fa8f238fad2d1b4516e48886df1dcd19ff3d595fe616"
 metafile = true
@@ -2470,11 +2475,6 @@ hash = "0b65674188eeb45792d73c1636847e7274e94777a2ebc6c1efa2c4baed13e4df"
 [[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "3ee389e5b994aa1423e36140804840a6fe419dffd4798111c0624c2afebd95ab"
-metafile = true
-
-[[files]]
-file = "mods/junkyard.pw.toml"
-hash = "45d5881967a17c4249ab4e60c7cc0578037285ed193a37460b6c23a1ba71873d"
 metafile = true
 
 [[files]]
