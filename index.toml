@@ -2223,6 +2223,11 @@ hash = "a35abc9918ab470587cb18f05a37918a921ec0ae59f1c256ebec3c20d819904e"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "133e7c9295b9e7e8577b5ca36cf9548b4c590eeb0708fdeb9cb59c2758759ac8"
+metafile = true
+
+[[files]]
 file = "mods/easy-villagers-neoforge-1.21.1-1.1.41.jar"
 hash = "a571de06bcf308426f723ff88df4b276235f96bd905adf51f5d60528de5d5f2e"
 
