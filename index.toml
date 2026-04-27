@@ -2512,6 +2512,21 @@ file = "mods/kotlinforforge-5.11.0-all.jar"
 hash = "ac827b62ce8fe71760208671b4a694e3ccd35049075f9406a751cffb5a5c9779"
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-oritech.pw.toml"
+hash = "ace749d349728358c3c5eb8fc76aec6b2b15aac2ef0d847ebcc2b6d59fd47963"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "e8c20c0c77e5df58d1386d8190ee16a957d78d62d361469db0b0c29458bf1e84"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "177af2a4d5072f2e055062f70a5ea780d821785ceae82d5378df3ba7cbc95665"
 metafile = true
@@ -2768,6 +2783,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
 
 [[files]]
