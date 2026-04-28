@@ -2350,6 +2350,11 @@ hash = "c19754832997fe5fbd9488eeb3b02f3221f36893f94003e403b731ed9e9132ce"
 metafile = true
 
 [[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "83e60a73e109258def123fbcab5cf606857f36feca621a4c40c9d7c10b285bca"
+metafile = true
+
+[[files]]
 file = "mods/fdlib.pw.toml"
 hash = "a85ef8504d5bd6fca464cfa59df51af343a5194f5b71ed127197751280d904a6"
 metafile = true
@@ -2681,6 +2686,11 @@ file = "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar"
 hash = "242267afa324352130adb2263a5667e421c6f4c573ad0dfe0565971255ea5a1e"
 
 [[files]]
+file = "mods/nolijium.pw.toml"
+hash = "28cb207c25554463e24ef6c4fee325ecfddde66366c8bee7fcd4461c84e297b6"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-crashes-forge.pw.toml"
 hash = "32b9515e4f9a0ccbf91f88e67ef33319aab272e12e09e0c6b227d7be8238bfee"
 metafile = true
@@ -2900,6 +2910,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
 metafile = true
 
 [[files]]
