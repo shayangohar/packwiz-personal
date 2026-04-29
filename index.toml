@@ -2213,11 +2213,6 @@ hash = "fcffeffc0b8f4fb24c213e7d69449fca45ef80c8ed618409996e5b2f0f751d2c"
 metafile = true
 
 [[files]]
-file = "mods/crystal-chronicles.pw.toml"
-hash = "734b7f0befdde9ab55fb45d81f8d2722df799382ff87b7f22d420ec3b69fb324"
-metafile = true
-
-[[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "f88b965850ffbe85274c04936d9e09d961995857b3d45a39d8cde4a7f3552187"
 metafile = true
