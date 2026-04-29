@@ -2622,11 +2622,6 @@ hash = "67a1f2166177db175eeb9dbd8dd085c6180fbaac6669f07c2cdb9c10efe8da9a"
 metafile = true
 
 [[files]]
-file = "mods/modular-bees.pw.toml"
-hash = "51415154ebb48053fd6e2298ea9e25adb62d819cc13a76d5ad52dffdb32c782e"
-metafile = true
-
-[[files]]
 file = "mods/monolib.pw.toml"
 hash = "11fb01369bb143bcf8ff4cba665ba9583f9b66e7fd17103ae36e52cc934a05d1"
 metafile = true
@@ -2763,11 +2758,6 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "5328219480c6d7aa255c6288f2839b683ffc1bcc52449383244cd11cfbf85f83"
-metafile = true
-
-[[files]]
-file = "mods/productivebees.pw.toml"
-hash = "cd92db6fb607b2b3a2c72384981576fc89707e36634feb8fb28581080c00b169"
 metafile = true
 
 [[files]]
