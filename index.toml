@@ -2164,11 +2164,6 @@ hash = "c4103785556fcfb51a047f038be68dd742fa15e76daff6f0f3277893a9606e97"
 metafile = true
 
 [[files]]
-file = "mods/create-sound-of-steam.pw.toml"
-hash = "87a280b3f1851afa3300fa8f238fad2d1b4516e48886df1dcd19ff3d595fe616"
-metafile = true
-
-[[files]]
 file = "mods/create-stats-additions.pw.toml"
 hash = "d6c46da56e940edc598e4f7af4e55cce57e21b55f31527a3b67a7752f92ad575"
 metafile = true
@@ -2953,11 +2948,6 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
-metafile = true
-
-[[files]]
-file = "mods/upgrade-aquatic.pw.toml"
-hash = "a82b72fa04d704408f6c294a41e28e3e9ee6dac43dcdd268990e04f8e67881c9"
 metafile = true
 
 [[files]]
