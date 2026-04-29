@@ -2434,6 +2434,11 @@ hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
 
 [[files]]
+file = "mods/geore.pw.toml"
+hash = "af5b227b56eb612aa3d1975bde5827bf294c64407b375ff2d4d21749493b488d"
+metafile = true
+
+[[files]]
 file = "mods/glodium.pw.toml"
 hash = "9aafdd83668c1b903caf0245b0bf2de3bb743befaa78d39e74a95c9933d624ac"
 metafile = true
