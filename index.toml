@@ -2647,11 +2647,6 @@ hash = "9749d73e7add8942aa12ca754ed46d4549f2148bc9f169f4ce94d19f6c5fb4b5"
 metafile = true
 
 [[files]]
-file = "mods/myths-n-legends.pw.toml"
-hash = "8a88a7b895e1c7fe72f5330983cb51d497d26711c2918e4919c638b5cb839418"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "2e9a8daaa0e0cc9cdfb67422e0f928f2db6a1f2984b8636eb2b5091c5fb23e29"
 metafile = true
