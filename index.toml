@@ -2124,6 +2124,11 @@ file = "mods/craftingtweaks-neoforge-1.21.1-21.1.9.jar"
 hash = "cc4c489b055ecc3962a22ac2de5c1d0d6c4c59c560f3dbdd0566e49bb41233a8"
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "e8752ccef8c59a6544354d66182d14161184ed1985ea5060dfbef5819a08db82"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
 metafile = true
