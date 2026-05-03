@@ -1,5 +1,5 @@
 # TwizzyCraft 3.5
-This is the official repository for development of the TwizzyCraft 3.5 Modpack 
+This is the official home for development of the TwizzyCraft 3.5 Modpack 
 ## Now Featuring:
 - Create Aeronautics
 - Malum
