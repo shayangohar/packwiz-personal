@@ -2124,11 +2124,6 @@ file = "mods/craftingtweaks-neoforge-1.21.1-21.1.9.jar"
 hash = "cc4c489b055ecc3962a22ac2de5c1d0d6c4c59c560f3dbdd0566e49bb41233a8"
 
 [[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "e8752ccef8c59a6544354d66182d14161184ed1985ea5060dfbef5819a08db82"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
 metafile = true
@@ -3012,6 +3007,14 @@ metafile = true
 file = "resourcepacks/oritech-laboratory.pw.toml"
 hash = "5c677fa85db359b10ee833a34a821b8d5589dd8ef3ed76696f4df97cc40c65b0"
 metafile = true
+
+[[files]]
+file = "scripts/addgeorerecipes.zs"
+hash = "36b792ec9bc9c90656559d5f3bc5bd4ea63fa5defbbf9ae6846ca7ad4cfa872d"
+
+[[files]]
+file = "scripts/removegeoreecipes.zs"
+hash = "55f4ba7dbc2e695ba385606995c6589ac370a366dd0b00a7163eda6908e0cb01"
 
 [[files]]
 file = "servers.dat"
