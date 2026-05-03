@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "53404fa1534c435aa812e38dc8b7352f1b140c70f6d991bd9d060ab272589f41"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
@@ -2552,6 +2556,16 @@ file = "mods/kotlinforforge-5.11.0-all.jar"
 hash = "ac827b62ce8fe71760208671b4a694e3ccd35049075f9406a751cffb5a5c9779"
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "60d0f719a2fc1045e865fc38c0c6d04a733d0ce2e84173be86e999399bcc162d"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "177af2a4d5072f2e055062f70a5ea780d821785ceae82d5378df3ba7cbc95665"
 metafile = true
@@ -3007,14 +3021,6 @@ metafile = true
 file = "resourcepacks/oritech-laboratory.pw.toml"
 hash = "5c677fa85db359b10ee833a34a821b8d5589dd8ef3ed76696f4df97cc40c65b0"
 metafile = true
-
-[[files]]
-file = "scripts/addgeorerecipes.zs"
-hash = "36b792ec9bc9c90656559d5f3bc5bd4ea63fa5defbbf9ae6846ca7ad4cfa872d"
-
-[[files]]
-file = "scripts/removegeoreecipes.zs"
-hash = "55f4ba7dbc2e695ba385606995c6589ac370a366dd0b00a7163eda6908e0cb01"
 
 [[files]]
 file = "servers.dat"
