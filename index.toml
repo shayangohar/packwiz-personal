@@ -2006,11 +2006,6 @@ hash = "50b018038be4fa007f3e2edadced2aad21d5f840e290a99bbc0383f00858e3f6"
 metafile = true
 
 [[files]]
-file = "mods/chemica.pw.toml"
-hash = "709f9b9820c3442ea37fce069d8a8f6d89fa1c1775a3102ecd9a010bccc310c2"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
@@ -2175,11 +2170,6 @@ metafile = true
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "3a37f452485e16f15a044572da46c48891015ae86c78d8268cb77078e6ca4f4f"
-metafile = true
-
-[[files]]
-file = "mods/create-tfmg.pw.toml"
-hash = "dfbb2a077b144492f48af0255906b146d56011ccb6c6f6e343bab703e8cc0f79"
 metafile = true
 
 [[files]]
