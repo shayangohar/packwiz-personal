@@ -1805,6 +1805,10 @@ file = "config/zeta-common.toml"
 hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
+file = "icon.png"
+hash = "013408a46b2f869f76cde54e5e738a42db86fb0dc84230bd48fa7ec5fbe6a5e5"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
