@@ -1805,6 +1805,54 @@ file = "config/zeta-common.toml"
 hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/removals.js"
+hash = "61928a77b4186f970aa528b962c80669e4130958d4783ed0f02149fdb9ff0ec9"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "dccd633eefd616a20ba09d6a09f7781c750a6d232d1bd4854b4e6afc603a20bb"
+
+[[files]]
+file = "kubejs/server_scripts/add_budding_recipes.js"
+hash = "f7bb9e91892093d23b78da9d9e66d3767f2823ed3b08c39002efb38c8727eb24"
+
+[[files]]
+file = "kubejs/server_scripts/remove_budding_recipes.js"
+hash = "a19228a62a17fb1facda773f3cd2fad1fe5c07eabe9670f9b9009b53dfd24c6e"
+
+[[files]]
+file = "kubejs/server_scripts/shard_fixes.js"
+hash = "1e3ad208b0271e8c5d1646fcda6dee97a0b696cd9b54b5662e894d3f7019e5c2"
+
+[[files]]
+file = "kubejs/server_scripts/tags.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/startup_scripts/items.js"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
@@ -2992,54 +3040,6 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "dd9eb796545bbc04a65a67224095336c360b6a7733767283215abc201d0c1ecf"
 metafile = true
-
-[[files]]
-file = "overrides/kubejs/README.txt"
-hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
-
-[[files]]
-file = "overrides/kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
-
-[[files]]
-file = "overrides/kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
-
-[[files]]
-file = "overrides/kubejs/client_scripts/removals.js"
-hash = "61928a77b4186f970aa528b962c80669e4130958d4783ed0f02149fdb9ff0ec9"
-
-[[files]]
-file = "overrides/kubejs/config/client.json"
-hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
-
-[[files]]
-file = "overrides/kubejs/config/common.json"
-hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
-
-[[files]]
-file = "overrides/kubejs/config/web_server.json"
-hash = "dccd633eefd616a20ba09d6a09f7781c750a6d232d1bd4854b4e6afc603a20bb"
-
-[[files]]
-file = "overrides/kubejs/server_scripts/add_budding_recipes.js"
-hash = "f7bb9e91892093d23b78da9d9e66d3767f2823ed3b08c39002efb38c8727eb24"
-
-[[files]]
-file = "overrides/kubejs/server_scripts/remove_budding_recipes.js"
-hash = "a19228a62a17fb1facda773f3cd2fad1fe5c07eabe9670f9b9009b53dfd24c6e"
-
-[[files]]
-file = "overrides/kubejs/server_scripts/shard_fixes.js"
-hash = "1e3ad208b0271e8c5d1646fcda6dee97a0b696cd9b54b5662e894d3f7019e5c2"
-
-[[files]]
-file = "overrides/kubejs/server_scripts/tags.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "overrides/kubejs/startup_scripts/items.js"
-hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
 file = "resourcepacks/Computer Craft Recreated v1.2.zip"
