@@ -1871,6 +1871,11 @@ hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
 
 [[files]]
+file = "mods/actually-additions.pw.toml"
+hash = "0bb40232f5746284ea4ef40618a989669fcb7eaa5df587a07139fe20d6e1a9f9"
+metafile = true
+
+[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "a2aafa3ac24eef1aad644a9633f9f856271ed97c8da6a6855627f9eaea6e44f4"
 metafile = true
@@ -2758,7 +2763,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
