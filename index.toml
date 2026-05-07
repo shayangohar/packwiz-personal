@@ -2035,11 +2035,6 @@ hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
 metafile = true
 
 [[files]]
-file = "mods/cc-redstone-link-bridge.pw.toml"
-hash = "791a6138f2501b4e3d2695bc6f95d207da57872cb7a32074a6236a264e43cb7f"
-metafile = true
-
-[[files]]
 file = "mods/cc-sable.pw.toml"
 hash = "fc33c00bff9b4ed2de15a8a6c4a24dbdb89a9ede7a04bcb87ad466f1de33322e"
 metafile = true
@@ -2177,6 +2172,11 @@ hash = "cc4c489b055ecc3962a22ac2de5c1d0d6c4c59c560f3dbdd0566e49bb41233a8"
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
+metafile = true
+
+[[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "7b12e58c4f44b3b9a9431b06652e00ca9a6a7fde330f28126e5f51484621874b"
 metafile = true
 
 [[files]]
