@@ -2678,6 +2678,11 @@ hash = "67a1f2166177db175eeb9dbd8dd085c6180fbaac6669f07c2cdb9c10efe8da9a"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "90e374f5744d552d2a14d8dec41247810c0ef9994d958f9a57d359bb03103115"
+metafile = true
+
+[[files]]
 file = "mods/monolib.pw.toml"
 hash = "11fb01369bb143bcf8ff4cba665ba9583f9b66e7fd17103ae36e52cc934a05d1"
 metafile = true
@@ -2862,6 +2867,11 @@ hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "bc896204604423a7c10565fc29bd8758eb1551e86bfefe5823657fbdc46dc0af"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
@@ -2936,6 +2946,16 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "044596b6a2063f3328785d905de83fc3e35122f03ffc174019cf9139e3eb2d2f"
+metafile = true
+
+[[files]]
+file = "mods/spectrumjei.pw.toml"
+hash = "0d691b82db152614e1575c10af84a18f1d7ec9f97acc0ecfdbf75ec5387c0c4e"
 metafile = true
 
 [[files]]
